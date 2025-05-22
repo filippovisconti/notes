@@ -1,6 +1,7 @@
 ---
 tags: [Networks, Cisco, CCNA, foundations, osi]
 title: Introduction to TCP/IP Networking
+date: 2025-05-21
 categories: ccna-notes
 math: true
 ---
